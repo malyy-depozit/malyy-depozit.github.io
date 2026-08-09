@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: malyy-depozit.github.io
+Sitemap: https://malyy-depozit.github.io/sitemap.xml
